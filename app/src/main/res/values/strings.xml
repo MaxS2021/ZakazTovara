@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ZakazTovara</string>
+    <string name="title_home">Главная</string>
+    <string name="title_dashboard">Каталог</string>
+    <string name="title_notifications">Корзина</string>
+    <string name="title_zakaz">Заказы</string>
+    <string name="title_profil">Профиль</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
